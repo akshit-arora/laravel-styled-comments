@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/akshit-arora/laravel-styled-comments.github.io/static/css/main.2517acbb.css",
+    "main.js": "/akshit-arora/laravel-styled-comments.github.io/static/js/main.947dc407.js",
+    "static/js/453.046d29e9.chunk.js": "/akshit-arora/laravel-styled-comments.github.io/static/js/453.046d29e9.chunk.js",
+    "index.html": "/akshit-arora/laravel-styled-comments.github.io/index.html",
+    "main.2517acbb.css.map": "/akshit-arora/laravel-styled-comments.github.io/static/css/main.2517acbb.css.map",
+    "main.947dc407.js.map": "/akshit-arora/laravel-styled-comments.github.io/static/js/main.947dc407.js.map",
+    "453.046d29e9.chunk.js.map": "/akshit-arora/laravel-styled-comments.github.io/static/js/453.046d29e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2517acbb.css",
+    "static/js/main.947dc407.js"
+  ]
+}
