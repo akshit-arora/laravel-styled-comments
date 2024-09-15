@@ -1,7 +1,7 @@
 {
   "name": "laravelcomments",
   "version": "0.1.0",
-  "homepage": "https://github.com/akshit-arora/laravel-styled-comments.github.io",
+  "homepage": "https://www.akshitarora.dev/laravel-styled-comments",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

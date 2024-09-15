@@ -8,10 +8,6 @@ function App() {
 
     function getSequence(charCount, lineCount = 2, maxValue = 77) {
 
-        if (lineCount > 10) {
-            throw new Error('Much more lines than required');
-        }
-
         charCount += (lineCount - 1) * 5;
 
         let difference = 5;
