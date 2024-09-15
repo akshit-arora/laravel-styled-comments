@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/akshit-arora/laravel-styled-comments.github.io/static/css/main.2517acbb.css",
-    "main.js": "/akshit-arora/laravel-styled-comments.github.io/static/js/main.579b8aea.js",
-    "static/js/453.046d29e9.chunk.js": "/akshit-arora/laravel-styled-comments.github.io/static/js/453.046d29e9.chunk.js",
-    "index.html": "/akshit-arora/laravel-styled-comments.github.io/index.html",
-    "main.2517acbb.css.map": "/akshit-arora/laravel-styled-comments.github.io/static/css/main.2517acbb.css.map",
-    "main.579b8aea.js.map": "/akshit-arora/laravel-styled-comments.github.io/static/js/main.579b8aea.js.map",
-    "453.046d29e9.chunk.js.map": "/akshit-arora/laravel-styled-comments.github.io/static/js/453.046d29e9.chunk.js.map"
+    "main.css": "/laravel-styled-comments/static/css/main.2517acbb.css",
+    "main.js": "/laravel-styled-comments/static/js/main.97543f1c.js",
+    "static/js/453.046d29e9.chunk.js": "/laravel-styled-comments/static/js/453.046d29e9.chunk.js",
+    "index.html": "/laravel-styled-comments/index.html",
+    "main.2517acbb.css.map": "/laravel-styled-comments/static/css/main.2517acbb.css.map",
+    "main.97543f1c.js.map": "/laravel-styled-comments/static/js/main.97543f1c.js.map",
+    "453.046d29e9.chunk.js.map": "/laravel-styled-comments/static/js/453.046d29e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2517acbb.css",
-    "static/js/main.579b8aea.js"
+    "static/js/main.97543f1c.js"
   ]
 }
